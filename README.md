@@ -1,6 +1,9 @@
 #Meteor Link Accounts
 A Meteor package designed to links social network accounts without any hassles.
 
+##Attribution
+This is bozhao:link-accounts with added support for ghobbs:microsoft2.
+
 ##Goals
 * Link additional social network accounts.
 * Don't modify any Meteor core packages.
